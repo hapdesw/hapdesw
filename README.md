@@ -1,4 +1,4 @@
-### Hello! I'm Happy 👋
+### Hello! I'm Happy. Clap along if you feel like a room without a roof~ 👋
 
 <!--
 **hapdesw/hapdesw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
